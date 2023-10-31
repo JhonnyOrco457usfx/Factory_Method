@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Factory_Methhhh.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{82FE9265-F066-40E8-B8D7-1E5FF81E2005}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Factory_Methhhh.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Factory_MethhhhEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{94D4D64C-5EE2-410B-A8A8-22092B64F95F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Factory_Methhhh">
+      <UniqueIdentifier>{9A6D6679-5EC8-434D-BE1A-CE70F2726F88}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Factory_Methhhh\AGeneradorZombieEspeciales.cpp">
+      <Filter>Source\Factory_Methhhh</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Factory_Methhhh\AGeneradorZombieEspeciales.h">
+      <Filter>Source\Factory_Methhhh</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Factory_Methhhh\Factory_Methhhh.Build.cs">
+      <Filter>Source\Factory_Methhhh</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Factory_Methhhh\Factory_Methhhh.cpp">
+      <Filter>Source\Factory_Methhhh</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Factory_Methhhh\Factory_Methhhh.h">
+      <Filter>Source\Factory_Methhhh</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Factory_Methhhh\Factory_MethhhhGameModeBase.cpp">
+      <Filter>Source\Factory_Methhhh</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Factory_Methhhh\Factory_MethhhhGameModeBase.h">
+      <Filter>Source\Factory_Methhhh</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Factory_Methhhh\Factory_princicpal.cpp">
+      <Filter>Source\Factory_Methhhh</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Factory_Methhhh\Factory_princicpal.h">
+      <Filter>Source\Factory_Methhhh</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Factory_Methhhh\GeneradorZombieNormales.cpp">
+      <Filter>Source\Factory_Methhhh</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Factory_Methhhh\GeneradorZombieNormales.h">
+      <Filter>Source\Factory_Methhhh</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Factory_Methhhh\GenradorDeZombies.cpp">
+      <Filter>Source\Factory_Methhhh</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Factory_Methhhh\GenradorDeZombies.h">
+      <Filter>Source\Factory_Methhhh</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Factory_Methhhh\Zombie.cpp">
+      <Filter>Source\Factory_Methhhh</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Factory_Methhhh\Zombie.h">
+      <Filter>Source\Factory_Methhhh</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Factory_Methhhh\ZombieComun.cpp">
+      <Filter>Source\Factory_Methhhh</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Factory_Methhhh\ZombieComun.h">
+      <Filter>Source\Factory_Methhhh</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Factory_Methhhh\ZombieCono.cpp">
+      <Filter>Source\Factory_Methhhh</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Factory_Methhhh\ZombieCono.h">
+      <Filter>Source\Factory_Methhhh</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Factory_Methhhh\ZombiePoderoso.cpp">
+      <Filter>Source\Factory_Methhhh</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Factory_Methhhh\ZombiePoderoso.h">
+      <Filter>Source\Factory_Methhhh</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

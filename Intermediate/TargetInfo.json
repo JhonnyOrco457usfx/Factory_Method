@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Factory_Methhhh",
+			"Path": "C:\\TODO\\PVZ-1\\PATRONES DE DISENIO\\PATRONES_UNREAL\\PATTERS-PARA-DEFENSA\\Factory_Methhhh\\Source\\Factory_Methhhh.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Factory_MethhhhEditor",
+			"Path": "C:\\TODO\\PVZ-1\\PATRONES DE DISENIO\\PATRONES_UNREAL\\PATTERS-PARA-DEFENSA\\Factory_Methhhh\\Source\\Factory_MethhhhEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

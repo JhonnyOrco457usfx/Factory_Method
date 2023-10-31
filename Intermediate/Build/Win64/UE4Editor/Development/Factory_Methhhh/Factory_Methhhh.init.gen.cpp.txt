@@ -1,0 +1,3 @@
+C:\TODO\PVZ-1\PATRONES DE DISENIO\PATRONES_UNREAL\PATTERS-PARA-DEFENSA\Factory_Methhhh\Intermediate\Build\Win64\UE4Editor\Development\Factory_Methhhh\Definitions.Factory_Methhhh.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

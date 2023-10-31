@@ -1,0 +1,9 @@
+C:\TODO\PVZ-1\PATRONES DE DISENIO\PATRONES_UNREAL\PATTERS-PARA-DEFENSA\Factory_Methhhh\Intermediate\Build\Win64\UE4Editor\Development\Factory_Methhhh\Definitions.Factory_Methhhh.h
+C:\TODO\PVZ-1\PATRONES DE DISENIO\PATRONES_UNREAL\PATTERS-PARA-DEFENSA\Factory_Methhhh\Source\Factory_Methhhh\AGeneradorZombieEspeciales.h
+C:\TODO\PVZ-1\PATRONES DE DISENIO\PATRONES_UNREAL\PATTERS-PARA-DEFENSA\Factory_Methhhh\Source\Factory_Methhhh\GenradorDeZombies.h
+C:\TODO\PVZ-1\PATRONES DE DISENIO\PATRONES_UNREAL\PATTERS-PARA-DEFENSA\Factory_Methhhh\Source\Factory_Methhhh\Zombie.h
+C:\TODO\PVZ-1\PATRONES DE DISENIO\PATRONES_UNREAL\PATTERS-PARA-DEFENSA\Factory_Methhhh\Intermediate\Build\Win64\UE4Editor\Inc\Factory_Methhhh\Zombie.generated.h
+C:\TODO\PVZ-1\PATRONES DE DISENIO\PATRONES_UNREAL\PATTERS-PARA-DEFENSA\Factory_Methhhh\Intermediate\Build\Win64\UE4Editor\Inc\Factory_Methhhh\GenradorDeZombies.generated.h
+C:\TODO\PVZ-1\PATRONES DE DISENIO\PATRONES_UNREAL\PATTERS-PARA-DEFENSA\Factory_Methhhh\Intermediate\Build\Win64\UE4Editor\Inc\Factory_Methhhh\AGeneradorZombieEspeciales.generated.h
+C:\TODO\PVZ-1\PATRONES DE DISENIO\PATRONES_UNREAL\PATTERS-PARA-DEFENSA\Factory_Methhhh\Source\Factory_Methhhh\ZombiePoderoso.h
+C:\TODO\PVZ-1\PATRONES DE DISENIO\PATRONES_UNREAL\PATTERS-PARA-DEFENSA\Factory_Methhhh\Intermediate\Build\Win64\UE4Editor\Inc\Factory_Methhhh\ZombiePoderoso.generated.h

@@ -1,0 +1,11 @@
+C:\TODO\PVZ-1\PATRONES DE DISENIO\PATRONES_UNREAL\PATTERS-PARA-DEFENSA\Factory_Methhhh\Intermediate\Build\Win64\UE4Editor\Development\Factory_Methhhh\Definitions.Factory_Methhhh.h
+C:\TODO\PVZ-1\PATRONES DE DISENIO\PATRONES_UNREAL\PATTERS-PARA-DEFENSA\Factory_Methhhh\Source\Factory_Methhhh\Factory_MethhhhGameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\TODO\PVZ-1\PATRONES DE DISENIO\PATRONES_UNREAL\PATTERS-PARA-DEFENSA\Factory_Methhhh\Intermediate\Build\Win64\UE4Editor\Inc\Factory_Methhhh\Factory_MethhhhGameModeBase.generated.h
+C:\TODO\PVZ-1\PATRONES DE DISENIO\PATRONES_UNREAL\PATTERS-PARA-DEFENSA\Factory_Methhhh\Source\Factory_Methhhh\ZombieComun.h
+C:\TODO\PVZ-1\PATRONES DE DISENIO\PATRONES_UNREAL\PATTERS-PARA-DEFENSA\Factory_Methhhh\Source\Factory_Methhhh\Zombie.h
+C:\TODO\PVZ-1\PATRONES DE DISENIO\PATRONES_UNREAL\PATTERS-PARA-DEFENSA\Factory_Methhhh\Intermediate\Build\Win64\UE4Editor\Inc\Factory_Methhhh\Zombie.generated.h
+C:\TODO\PVZ-1\PATRONES DE DISENIO\PATRONES_UNREAL\PATTERS-PARA-DEFENSA\Factory_Methhhh\Intermediate\Build\Win64\UE4Editor\Inc\Factory_Methhhh\ZombieComun.generated.h
